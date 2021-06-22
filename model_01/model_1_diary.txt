@@ -1,0 +1,336 @@
+2021-06-13 10:09:01.670708  lr=0.08
+epoch: 0	cost:3006.68	time:30.69
+epoch: 1	cost:2885.51	time:30.53
+epoch: 2	cost:2775.71	time:30.31
+val: 3	correct:0.00	time:9.37
+
+2021-06-13 10:11:32.489321  lr=0.05
+epoch: 0	cost:2658.13	time:30.93
+epoch: 1	cost:2509.08	time:31.08
+epoch: 2	cost:2311.59	time:30.91
+val: 3	correct:0.00	time:9.28
+
+2021-06-13 10:13:37.076542  lr=0.05
+epoch: 0	cost:2170.07	time:30.52
+epoch: 1	cost:2090.79	time:30.63
+epoch: 2	cost:2031.25	time:31.03
+epoch: 3	cost:1985.56	time:30.88
+epoch: 4	cost:1947.03	time:30.89
+val: 5	correct:0.00	time:9.37
+
+2021-06-13 10:16:25.127019  lr=0.01
+epoch: 0	cost:1827.53	time:31.59
+epoch: 1	cost:1802.73	time:31.25
+epoch: 2	cost:1792.23	time:31.12
+epoch: 3	cost:1777.21	time:31.01
+epoch: 4	cost:1767.60	time:30.77
+val: 5	correct:0.00	time:9.55
+
+2021-06-13 10:25:01.184970  lr=0.001
+epoch: 0	cost:1744.33	time:30.79
+val: 1	correct:0.00	time:9.32
+
+2021-06-13 10:27:55.938147  lr=0.001
+epoch: 0	cost:1744.33	time:30.27
+val: 1	correct:0.00	time:9.23
+
+2021-06-13 12:15:15.627373  lr=0.001
+epoch: 0	cost:1738.17	time:32.68
+epoch: 1	cost:1732.45	time:31.14
+epoch: 2	cost:1732.66	time:31.50
+val: 3	correct:0.00	time:9.74
+
+2021-06-13 12:18:46.098885  lr=0.0005
+epoch: 0	cost:1744.84	time:30.45
+epoch: 1	cost:1744.11	time:30.30
+epoch: 2	cost:1741.62	time:30.49
+val: 3	correct:0.00	time:9.92
+
+2021-06-13 15:56:52.418061  lr=0.0005
+epoch: 0	cost:1741.63	time:49.93
+val: 1	correct:0.00	time:15.31
+
+2021-06-13 15:58:08.513408  lr=0.0005
+epoch: 0	cost:1739.95	time:31.98
+val: 1	correct:0.00	time:9.71
+
+2021-06-13 20:05:42.557196  lr=0.0005
+epoch: 0	cost:1738.42	time:29.89
+val: 1	correct:0.00	time:9.45
+
+2021-06-13 20:07:29.594190  lr=0.0005
+epoch: 0	cost:1864.65	time:46.98
+epoch: 1	cost:1830.50	time:46.94
+epoch: 2	cost:1805.83	time:47.50
+val: 3	correct:0.00	time:9.34
+
+2021-06-13 21:18:24.626860  lr=0.002
+val: 1	correct:1757.00	time:9.75
+
+2021-06-13 21:19:07.287398  lr=0.002
+epoch: 0	cost:1993.29	time:48.47
+epoch: 1	cost:1913.23	time:49.22
+epoch: 2	cost:1870.24	time:49.64
+val: 3	correct:1732.00	time:9.54
+
+2021-06-13 21:23:38.354090  lr=0.002
+epoch: 0	cost:1835.71	time:49.13
+epoch: 1	cost:1790.96	time:48.51
+epoch: 2	cost:1770.88	time:48.67
+val: 3	correct:1779.00	time:9.76
+
+2021-06-13 21:39:52.338443  lr=0.002
+epoch: 0	cost:2816.05	time:46.31
+epoch: 1	cost:2425.42	time:46.25
+epoch: 2	cost:2230.35	time:45.99
+val: 3	correct:1096.00	time:9.31
+
+2021-06-13 21:42:24.653131  lr=0.002
+epoch: 0	cost:2141.68	time:45.91
+epoch: 1	cost:2064.62	time:45.73
+epoch: 2	cost:2012.23	time:45.91
+val: 3	correct:1368.00	time:9.23
+
+2021-06-13 21:45:50.277910  lr=0.002
+epoch: 0	cost:1986.28	time:45.87
+epoch: 1	cost:1938.00	time:45.43
+epoch: 2	cost:1905.69	time:46.44
+val: 3	correct:1510.00	time:9.51
+
+2021-06-13 21:48:20.357974  lr=0.0005
+epoch: 0	cost:1779.79	time:45.82
+epoch: 1	cost:1745.77	time:45.82
+epoch: 2	cost:1716.53	time:46.16
+val: 3	correct:1673.00	time:9.42
+
+2021-06-13 21:51:02.923121  lr=0.0001
+epoch: 0	cost:1694.91	time:45.64
+epoch: 1	cost:1677.39	time:45.90
+epoch: 2	cost:1654.48	time:46.36
+val: 3	correct:1728.00	time:9.26
+
+2021-06-14 11:05:52.896332
+epoch: 0	cost:2818.34	time:47.82	lr:0.0020000000
+epoch: 1	cost:2423.93	time:47.36	lr:0.0020000000
+epoch: 2	cost:2226.81	time:46.32	lr:0.0020000000
+val: 3	correct:1205	time:9.57
+save
+epoch: 3	cost:2126.69	time:46.37	lr:0.0020000000
+epoch: 4	cost:2057.01	time:47.06	lr:0.0020000000
+epoch: 5	cost:2009.47	time:47.00	lr:0.0020000000
+val: 6	correct:1422	time:9.75
+save
+epoch: 6	cost:1971.05	time:47.56	lr:0.0020000000
+epoch: 7	cost:1931.51	time:47.42	lr:0.0020000000
+epoch: 8	cost:1903.55	time:46.64	lr:0.0020000000
+val: 9	correct:1693	time:9.49
+save
+epoch: 9	cost:1874.49	time:46.54	lr:0.0020000000
+epoch:10	cost:1857.35	time:47.94	lr:0.0020000000
+epoch:11	cost:1838.01	time:47.52	lr:0.0020000000
+val:12	correct:1504	time:9.77
+epoch:12	cost:1823.46	time:47.44	lr:0.0020000000
+epoch:13	cost:1807.43	time:47.39	lr:0.0020000000
+epoch:14	cost:1789.23	time:47.13	lr:0.0020000000
+val:15	correct:1697	time:9.72
+save
+epoch:15	cost:1708.96	time:47.82	lr:0.0010000000
+epoch:16	cost:1689.92	time:47.98	lr:0.0010000000
+epoch:17	cost:1682.40	time:47.51	lr:0.0010000000
+val:18	correct:1871	time:9.66
+save
+epoch:18	cost:1675.84	time:46.83	lr:0.0010000000
+epoch:19	cost:1667.88	time:46.71	lr:0.0010000000
+epoch:20	cost:1662.04	time:47.32	lr:0.0010000000
+val:21	correct:1839	time:9.61
+epoch:21	cost:1661.28	time:47.27	lr:0.0010000000
+epoch:22	cost:1654.23	time:47.07	lr:0.0010000000
+epoch:23	cost:1646.40	time:47.84	lr:0.0010000000
+val:24	correct:1860	time:9.77
+epoch:24	cost:1640.65	time:47.41	lr:0.0010000000
+epoch:25	cost:1635.98	time:46.40	lr:0.0010000000
+epoch:26	cost:1631.83	time:45.68	lr:0.0010000000
+val:27	correct:1822	time:9.58
+epoch:27	cost:1630.34	time:47.23	lr:0.0010000000
+epoch:28	cost:1625.31	time:45.31	lr:0.0010000000
+epoch:29	cost:1616.43	time:45.18	lr:0.0010000000
+val:30	correct:1837	time:9.53
+
+2021-06-14 11:58:06.458172
+epoch: 0	cost:1641.02	time:49.65	lr:0.0005000000
+epoch: 1	cost:1631.02	time:46.44	lr:0.0005000000
+epoch: 2	cost:1620.27	time:46.11	lr:0.0005000000
+val: 3	correct:1889	time:9.38
+save
+epoch: 3	cost:1616.82	time:45.99	lr:0.0005000000
+epoch: 4	cost:1609.87	time:45.89	lr:0.0005000000
+epoch: 5	cost:1606.05	time:46.03	lr:0.0005000000
+val: 6	correct:1861	time:9.45
+epoch: 6	cost:1608.79	time:46.45	lr:0.0005000000
+epoch: 7	cost:1599.01	time:45.82	lr:0.0005000000
+epoch: 8	cost:1594.59	time:45.84	lr:0.0005000000
+val: 9	correct:1916	time:9.33
+save
+epoch: 9	cost:1592.38	time:45.96	lr:0.0005000000
+epoch:10	cost:1589.25	time:45.66	lr:0.0005000000
+epoch:11	cost:1585.64	time:46.40	lr:0.0005000000
+val:12	correct:1886	time:11.02
+epoch:12	cost:1584.22	time:55.61	lr:0.0005000000
+epoch:13	cost:1579.40	time:52.71	lr:0.0005000000
+epoch:14	cost:1573.11	time:52.21	lr:0.0005000000
+val:15	correct:1861	time:10.71
+epoch:15	cost:1575.33	time:52.20	lr:0.0005000000
+epoch:16	cost:1572.81	time:51.90	lr:0.0005000000
+epoch:17	cost:1571.71	time:52.41	lr:0.0005000000
+val:18	correct:1870	time:10.55
+epoch:18	cost:1577.19	time:52.08	lr:0.0005000000
+epoch:19	cost:1574.08	time:51.10	lr:0.0005000000
+epoch:20	cost:1572.02	time:50.60	lr:0.0005000000
+val:21	correct:1945	time:9.92
+save
+epoch:21	cost:1573.72	time:49.23	lr:0.0005000000
+epoch:22	cost:1569.84	time:49.07	lr:0.0005000000
+epoch:23	cost:1567.23	time:47.38	lr:0.0005000000
+val:24	correct:1892	time:9.37
+epoch:24	cost:1560.53	time:48.15	lr:0.0005000000
+epoch:25	cost:1561.65	time:49.21	lr:0.0005000000
+epoch:26	cost:1559.47	time:49.50	lr:0.0005000000
+val:27	correct:1907	time:9.76
+epoch:27	cost:1558.89	time:48.59	lr:0.0005000000
+epoch:28	cost:1556.82	time:49.48	lr:0.0005000000
+epoch:29	cost:1549.52	time:45.70	lr:0.0005000000
+val:30	correct:1923	time:9.41
+
+2021-06-14 15:41:41.591490
+epoch: 0	cost:1531.06	time:47.50	lr:0.0001000000
+epoch: 1	cost:1527.28	time:46.49	lr:0.0001000000
+epoch: 2	cost:1521.30	time:46.77	lr:0.0001000000
+val: 3	correct:1953	time:9.55
+save
+epoch: 3	cost:1518.59	time:46.16	lr:0.0001000000
+epoch: 4	cost:1515.85	time:46.46	lr:0.0001000000
+epoch: 5	cost:1515.75	time:46.99	lr:0.0001000000
+val: 6	correct:1939	time:9.79
+epoch: 6	cost:1521.62	time:47.49	lr:0.0001000000
+epoch: 7	cost:1513.31	time:49.05	lr:0.0001000000
+epoch: 8	cost:1511.57	time:46.65	lr:0.0001000000
+val: 9	correct:1951	time:9.52
+epoch: 9	cost:1512.25	time:50.42	lr:0.0001000000
+epoch:10	cost:1504.63	time:47.76	lr:0.0000500000
+epoch:11	cost:1504.14	time:49.95	lr:0.0000500000
+val:12	correct:1961	time:11.53
+save
+epoch:12	cost:1503.20	time:53.40	lr:0.0000500000
+epoch:13	cost:1501.76	time:50.68	lr:0.0000500000
+epoch:14	cost:1497.07	time:51.22	lr:0.0000500000
+val:15	correct:1947	time:9.83
+epoch:15	cost:1498.67	time:52.17	lr:0.0000500000
+epoch:16	cost:1498.95	time:50.12	lr:0.0000500000
+epoch:17	cost:1499.03	time:50.37	lr:0.0000500000
+val:18	correct:1930	time:9.83
+epoch:18	cost:1502.97	time:50.25	lr:0.0000500000
+epoch:19	cost:1501.97	time:50.05	lr:0.0000500000
+epoch:20	cost:1497.97	time:50.21	lr:0.0000250000
+val:21	correct:1968	time:9.73
+save
+epoch:21	cost:1514.89	time:48.04	lr:0.0000250000
+epoch:22	cost:1510.51	time:48.70	lr:0.0000250000
+epoch:23	cost:1510.50	time:50.20	lr:0.0000250000
+val:24	correct:1930	time:9.68
+epoch:24	cost:1506.14	time:50.91	lr:0.0000250000
+epoch:25	cost:1508.27	time:52.11	lr:0.0000250000
+epoch:26	cost:1509.16	time:50.75	lr:0.0000250000
+val:27	correct:1942	time:9.42
+epoch:27	cost:1509.19	time:46.79	lr:0.0000250000
+epoch:28	cost:1508.35	time:49.41	lr:0.0000250000
+epoch:29	cost:1504.92	time:49.88	lr:0.0000250000
+val:30	correct:1930	time:9.95
+
+2021-06-14 16:21:30.103474
+epoch: 0	cost:1511.78	time:48.54	lr:0.0001000000
+epoch: 1	cost:1512.64	time:48.03	lr:0.0001000000
+epoch: 2	cost:1508.28	time:48.00	lr:0.0001000000
+val: 3	correct:1923	time:9.51
+epoch: 3	cost:1506.72	time:47.38	lr:0.0001000000
+epoch: 4	cost:1504.48	time:44.96	lr:0.0001000000
+epoch: 5	cost:1504.85	time:46.45	lr:0.0001000000
+val: 6	correct:1951	time:10.88
+save
+epoch: 6	cost:1510.72	time:50.06	lr:0.0001000000
+epoch: 7	cost:1503.11	time:46.64	lr:0.0001000000
+epoch: 8	cost:1501.57	time:46.98	lr:0.0001000000
+val: 9	correct:1942	time:9.68
+epoch: 9	cost:1502.84	time:47.65	lr:0.0001000000
+epoch:10	cost:1496.03	time:47.60	lr:0.0000500000
+epoch:11	cost:1496.15	time:47.26	lr:0.0000500000
+val:12	correct:1956	time:9.61
+save
+epoch:12	cost:1495.00	time:47.76	lr:0.0000500000
+epoch:13	cost:1494.21	time:48.09	lr:0.0000500000
+epoch:14	cost:1489.70	time:47.67	lr:0.0000500000
+val:15	correct:1935	time:9.73
+epoch:15	cost:1491.11	time:47.01	lr:0.0000500000
+epoch:16	cost:1491.82	time:47.70	lr:0.0000500000
+epoch:17	cost:1492.09	time:47.50	lr:0.0000500000
+val:18	correct:1916	time:9.76
+epoch:18	cost:1495.71	time:47.30	lr:0.0000500000
+epoch:19	cost:1495.23	time:46.96	lr:0.0000500000
+epoch:20	cost:1492.07	time:47.42	lr:0.0000250000
+val:21	correct:1964	time:9.58
+save
+epoch:21	cost:1507.22	time:48.24	lr:0.0000250000
+epoch:22	cost:1502.94	time:47.46	lr:0.0000250000
+epoch:23	cost:1503.06	time:47.20	lr:0.0000250000
+val:24	correct:1917	time:9.55
+epoch:24	cost:1498.00	time:47.21	lr:0.0000250000
+epoch:25	cost:1500.84	time:46.45	lr:0.0000250000
+epoch:26	cost:1501.62	time:47.20	lr:0.0000250000
+val:27	correct:1950	time:9.62
+epoch:27	cost:1501.47	time:47.31	lr:0.0000250000
+epoch:28	cost:1500.77	time:46.81	lr:0.0000250000
+epoch:29	cost:1497.21	time:47.49	lr:0.0000250000
+val:30	correct:1942	time:9.59
+
+2021-06-14 16:47:49.948600
+epoch: 0	cost:1502.48	time:48.63	lr:0.0001000000
+epoch: 1	cost:1503.56	time:47.26	lr:0.0001000000
+epoch: 2	cost:1499.35	time:47.64	lr:0.0001000000
+val: 3	correct:1930	time:9.68
+epoch: 3	cost:1498.05	time:47.26	lr:0.0001000000
+epoch: 4	cost:1495.84	time:47.40	lr:0.0001000000
+epoch: 5	cost:1496.52	time:47.30	lr:0.0001000000
+val: 6	correct:1957	time:9.58
+epoch: 6	cost:1502.11	time:47.90	lr:0.0001000000
+epoch: 7	cost:1494.88	time:47.18	lr:0.0001000000
+epoch: 8	cost:1493.53	time:47.60	lr:0.0001000000
+val: 9	correct:1944	time:9.59
+epoch: 9	cost:1495.14	time:47.75	lr:0.0001000000
+epoch:10	cost:1488.66	time:47.17	lr:0.0000500000
+epoch:11	cost:1489.28	time:48.26	lr:0.0000500000
+val:12	correct:1947	time:9.56
+epoch:12	cost:1488.13	time:47.00	lr:0.0000500000
+epoch:13	cost:1487.78	time:47.04	lr:0.0000500000
+epoch:14	cost:1483.23	time:46.45	lr:0.0000500000
+val:15	correct:1931	time:9.72
+epoch:15	cost:1484.57	time:46.76	lr:0.0000500000
+epoch:16	cost:1485.47	time:47.12	lr:0.0000500000
+epoch:17	cost:1485.67	time:46.96	lr:0.0000500000
+val:18	correct:1911	time:9.81
+epoch:18	cost:1489.02	time:48.07	lr:0.0000500000
+epoch:19	cost:1488.71	time:46.96	lr:0.0000500000
+epoch:20	cost:1485.98	time:46.80	lr:0.0000250000
+val:21	correct:1968	time:9.66
+save
+epoch:21	cost:1500.46	time:47.16	lr:0.0000250000
+epoch:22	cost:1496.30	time:48.02	lr:0.0000250000
+epoch:23	cost:1496.48	time:46.56	lr:0.0000250000
+val:24	correct:1902	time:9.39
+epoch:24	cost:1490.85	time:46.54	lr:0.0000250000
+epoch:25	cost:1494.20	time:46.95	lr:0.0000250000
+epoch:26	cost:1494.81	time:47.43	lr:0.0000250000
+val:27	correct:1953	time:9.73
+epoch:27	cost:1494.52	time:47.31	lr:0.0000250000
+epoch:28	cost:1493.79	time:47.92	lr:0.0000250000
+epoch:29	cost:1490.22	time:49.75	lr:0.0000250000
+val:30	correct:1947	time:9.62
+
